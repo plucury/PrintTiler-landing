@@ -21,8 +21,10 @@ Perfect for posters, blueprints, large diagrams, and visual notes.
 
 ## 📥 Download
 
-Coming soon on the **Mac App Store**.  
-Stay tuned.
+PrintTiler is now available on the **Mac App Store**!  
+Click below to download and start printing smarter:
+
+[![Download on the Mac App Store](/assets/images/mac-app-store-badge.svg)](https://apps.apple.com/us/app/printtiler/id6745239959)
 
 ---
 
