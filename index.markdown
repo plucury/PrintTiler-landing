@@ -12,9 +12,9 @@ Perfect for posters, blueprints, large diagrams, and visual notes.
 
 ## ✨ Features
 
-- 📐 **Fit Modes**: Fit to width, fit to height, or no scaling  
 - 🧩 **Auto Tiling**: Automatically calculates and cuts pages  
 - 🖼️ **Live Preview**: See your result before you print  
+- 📐 **Fit Modes**: Fit to width, fit to height, or no scaling  
 - 📄 **Custom Paper Sizes**: Choose from various paper formats or set your own dimensions  
 - 💻 **macOS Native**: Clean, simple, and fast user experience
 
