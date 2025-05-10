@@ -50,3 +50,17 @@ PrintTiler is fully compliant with:
 If you have any questions about this Privacy Policy, feel free to contact us at:
 
 📧 [plucury@gmail.com](mailto:plucury@gmail.com)
+
+---
+
+## 🌐 Language
+
+- [English (Current)](/privacy)
+- [简体中文](/privacy-zh-Hans)
+- [繁體中文](/privacy-zh-Hant)
+- [日本語](/privacy-ja)
+- [한국어](/privacy-ko)
+- [Deutsch](/privacy-de)
+- [Français](/privacy-fr)
+- [Español](/privacy-es)
+- [Português](/privacy-pt)
