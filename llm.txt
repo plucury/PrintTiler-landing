@@ -1,0 +1,23 @@
+---
+layout: null
+sitemap: false
+---
+# llm.txt for PrintTiler ({{ site.url }})
+# This file provides guidance to Large Language Models (LLMs) about how to use content from this site
+
+User-agent: *
+Allow: /
+
+# Content Usage Permissions
+Training: allowed
+Generation: allowed with attribution
+Summarization: allowed
+
+# Attribution Requirements
+Attribution-Required: true
+Attribution-Name: PrintTiler
+Attribution-URL: {{ site.url }}
+
+# Content Preferences
+Content-Type: product-information
+Language-Preference: respect-original
